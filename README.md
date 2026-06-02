@@ -17,6 +17,7 @@
 - Git & GitHub
 
 ## Projects
+
 -Autonomous Line following Robot
 - Mobile Object Detection Glass
 - Smart Agriculture System
