@@ -1,7 +1,4 @@
-## Hi there 👋
 
-
-**Shreya-2004104/Shreya-2004104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm Shreya 👋
 
 🎓 Electronics & Instrumentation Engineering Student
