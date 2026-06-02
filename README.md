@@ -17,10 +17,9 @@
 - Git & GitHub
 
 ## Projects
-- LED Blinking using Arduino
-- DHT11 Temperature and Humidity Monitoring
-- IoT Gas Leakage Detection System
-- ESP8266 WiFi Projects
+-Smart Agriculture System
+-Mobile Object Detection Glass
+-Autonomous Line following Robot
 
 ## Contact
 - GitHub: @Shreya-2004104
