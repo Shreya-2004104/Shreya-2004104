@@ -17,9 +17,8 @@
 - Git & GitHub
 
 ## Projects
--Smart Agriculture System
--Mobile Object Detection Glass
 -Autonomous Line following Robot
-
+- Mobile Object Detection Glass
+- Smart Agriculture System
 ## Contact
 - GitHub: @Shreya-2004104
